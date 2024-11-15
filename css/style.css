@@ -359,11 +359,11 @@ textarea {
 
 .ftco-section,
 .ftco-footer {
-  padding: 7em 0 7em 0;
+  padding: 5em 0 5em 0;
 }
 .ftco-section.ftco-slant,
 .ftco-footer.ftco-slant {
-  padding: 7em 0 22em 0;
+  padding: 5em 0 10em 0;
 }
 .ftco-section .ftco-heading,
 .ftco-footer .ftco-heading {
@@ -381,9 +381,9 @@ textarea {
   background: #f2f2f2 !important;
 }
 
-.ftco-bg-dark {
+/* .ftco-bg-dark {
   background: #263135;
-}
+} */
 
 .ftco-footer {
   font-size: 16px;
